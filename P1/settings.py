@@ -14,7 +14,7 @@ import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TEMPLATE_DIR = "C:\\Users\\Star Hero\\Desktop\\New\\New Django\\P1\\templates"
+TEMPLATE_DIR = "H:\\P1\\templates"
 
 
 # Quick-start development settings - unsuitable for production
