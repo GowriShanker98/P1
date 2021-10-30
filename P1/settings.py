@@ -14,7 +14,11 @@ import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+<<<<<<< HEAD
  
+=======
+TEMPLATE_DIR = "H:\\P1\\templates"
+>>>>>>> 038c838c02572d461d3b231f184f03c2d23d3b31
 
 
 # Quick-start development settings - unsuitable for production
